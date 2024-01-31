@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    text-align: center;
+}
+
+header img {
+    max-width: 100%;
+    height: auto;
+}
+
+.main-content {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+div {
+    width: 100px; /* Adjust as needed */
+    height: 100px; /* Adjust as needed */
+    border: 1px solid black;
+    text-align: center;
+    background-color: darkgray;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+
+}
+
+.po{
+    font-size: 40px;
+    color:lightgray;
+     text-decoration: underline;
+}
